@@ -2,3 +2,8 @@ nav{
     background-color: rgb(240, 236, 25);
     text-decoration: none;
 }
+img{
+    max-width: 100%;
+    height: auto;
+
+}
