@@ -1,9 +1,22 @@
 nav{
     background-color: rgb(240, 236, 25);
     text-decoration: none;
+    text-align: center;
+    text-decoration: unset;
+
 }
 img{
     max-width: 100%;
     height: auto;
 
+}
+table{
+    color: black;
+    border-style: solid;
+    column-span: 50px;
+    border-color: black;
+    border-collapse: collapse;
+}
+table th{
+    background-color: aquamarine;
 }
