@@ -21,6 +21,11 @@ table{
 table th{
     background-color: aquamarine;
 }
+
+table:hover{
+    color:rebeccapurple;
+}
+
 .film{
     max-width: 150px;
     border-style: groove;
