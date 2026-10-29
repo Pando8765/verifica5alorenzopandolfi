@@ -16,7 +16,19 @@ table{
     column-span: 50px;
     border-color: black;
     border-collapse: collapse;
+    ;
 }
 table th{
     background-color: aquamarine;
+}
+.film{
+    max-width: 150px;
+    border-style: groove;
+    
+}
+
+a:hover {
+    color: rgb(1, 235, 252);
+    cursor: pointer;
+    background-color: rgb(236, 118, 118);
 }
